@@ -1,0 +1,23 @@
+body{
+    
+ background-color: firebrick;
+    
+    
+    
+    
+}
+
+.image-section{
+     display:flex;
+    
+    justify-content: center;
+}
+
+.section_syle{
+    
+    
+    margin-right: 25px;
+    
+    margin-left: 25px;
+    
+}
